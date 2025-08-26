@@ -34,4 +34,16 @@ nav  ul li a {
     color: #333;
     font-weight: bold;
     font-size: 1rem;
+    padding: 0.5rem 0;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #007bff
+}
+
+main {
+    padding: 2rem;
+    max-width: 960px;
+    margin: 2rem auto;
 }

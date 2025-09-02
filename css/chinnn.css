@@ -126,3 +126,20 @@ footer {
     transition: background-color 0.3 ease;
 }
  
+button:hover {
+    background-color: #0056b3;
+}
+
+.extra-links {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.extra-links a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.extra-links a:hover {
+    text-decoration: underline;
+}
